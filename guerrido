@@ -1,1 +1,1 @@
-git clone https://github.com/strands-agents/samples.git
+gh repo clone strands-agents/samples
